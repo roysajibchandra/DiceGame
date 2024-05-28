@@ -1,8 +1,9 @@
-# React + Vite
+This is React Dice Game Project. Using Hooks and Styled Component.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![1st](https://github.com/roysajibchandra/DiceGame/assets/93840340/38ca0fc0-2997-4e04-980f-7d39aa235c40)
+
+![2nd](https://github.com/roysajibchandra/DiceGame/assets/93840340/37fff178-2c6d-4745-b298-03c236a587ae)
+
+![3rd](https://github.com/roysajibchandra/DiceGame/assets/93840340/b8f9a2dd-dc74-49d2-8223-d7375dff5376)
